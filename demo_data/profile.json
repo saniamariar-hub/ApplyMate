@@ -1,0 +1,210 @@
+{
+  "personal": {
+    "first_name": "Aarohi",
+    "last_name": "Nair",
+    "full_name": "Aarohi Nair",
+    "email": "aarohi.nair.demo@example.com",
+    "phone": "+91 98765 43210",
+    "date_of_birth": "2004-07-18",
+    "age": 22,
+    "citizenship": "India",
+    "residency_country": "India",
+    "state_province": "Karnataka",
+    "city": "Bengaluru",
+    "postal_code": "560001",
+    "address_line1": "24, 3rd Cross, Indiranagar",
+    "linkedin_url": "https://linkedin.com/in/aarohi-nair-demo",
+    "github_url": "https://github.com/aarohinair-demo",
+    "portfolio_url": "https://aarohinair.dev"
+  },
+
+  "academic": {
+    "current_institution": "Christ University",
+    "degree_level": "Undergraduate (Bachelor of Technology)",
+    "degree": "B.Tech",
+    "major": "Computer Science and Engineering (Artificial Intelligence & Machine Learning)",
+    "honors": "Honors in Cyber Security",
+    "current_year": "Third Year",
+    "expected_graduation_date": "2027-05-31",
+    "expected_graduation_year": 2027,
+    "gpa": 9.1,
+    "gpa_scale": 10.0,
+    "enrollment_status": "Full-Time",
+    "academic_standing": "Excellent"
+  },
+
+  "financial": {
+    "annual_household_income_inr": 650000,
+    "financial_need_demonstrated": true,
+    "scholarship_required": true
+  },
+
+  "skills_and_interests": {
+    "technical_skills": [
+      "Python",
+      "Java",
+      "SQL",
+      "JavaScript",
+      "React",
+      "Node.js",
+      "FastAPI",
+      "Django",
+      "MongoDB",
+      "Supabase",
+      "LangChain",
+      "LangGraph",
+      "Git",
+      "Jira",
+      "Machine Learning",
+      "Natural Language Processing",
+      "Agentic AI"
+    ],
+
+    "research_interests": [
+      "Agentic AI",
+      "Multi-Agent Systems",
+      "Autonomous Vehicles",
+      "Artificial Intelligence",
+      "Machine Learning",
+      "Computer Vision",
+      "Cyber Security",
+      "Natural Language Processing",
+      "Explainable AI",
+      "AI Safety"
+    ],
+
+    "languages": [
+      {
+        "language": "English",
+        "proficiency": "Proficient (C1)"
+      },
+      {
+        "language": "Hindi",
+        "proficiency": "Fluent"
+      },
+      {
+        "language": "Kannada",
+        "proficiency": "Conversational"
+      },
+      {
+        "language": "Malayalam",
+        "proficiency": "Fluent"
+      }
+    ]
+  },
+
+  "projects": [
+    {
+      "title": "LogistiQ Inventory Management System",
+      "domain": "AI / Machine Learning",
+      "description": "Inventory management and intelligent stock transfer system for aircraft manufacturing.",
+      "technologies": [
+        "Python",
+        "Django",
+        "Scikit-learn",
+        "XGBoost",
+        "Random Forest",
+        "Pandas",
+        "NumPy"
+      ]
+    },
+    {
+      "title": "SEID Engine",
+      "domain": "Cyber Security / NLP",
+      "description": "Ensemble AI system for phishing email and smishing detection.",
+      "technologies": [
+        "Python",
+        "RoBERTa",
+        "PyTorch",
+        "TF-IDF",
+        "Logistic Regression",
+        "FastAPI"
+      ]
+    },
+    {
+      "title": "Application Readiness Agent",
+      "domain": "Agentic AI",
+      "description": "Browser agent that researches application requirements, checks document readiness and prepares application forms with human approval.",
+      "technologies": [
+        "Python",
+        "FastAPI",
+        "React",
+        "OpenAI API",
+        "Webcmd"
+      ]
+    }
+  ],
+
+  "experience": [
+    {
+      "organization": "Hindustan Aeronautics Limited",
+      "role": "AI/ML Intern",
+      "duration": "April 2025 - May 2025",
+      "location": "Bengaluru, India",
+      "description": "Developed an inventory management and intelligent stock transfer system for aircraft manufacturing."
+    },
+    {
+      "organization": "Dream India Network",
+      "role": "Technology Intern",
+      "duration": "June 2025 - September 2025",
+      "location": "Bengaluru, India",
+      "description": "Worked on website analysis, SEO and digital technology initiatives for an NGO."
+    },
+    {
+      "organization": "Apexon",
+      "role": "Agentic AI Intern",
+      "duration": "April 2026 - May 2026",
+      "location": "Bengaluru, India",
+      "description": "Developed an AI assistant integrated with Jira for automated project monitoring, notifications and board queries."
+    },
+    {
+      "organization": "Coding4Community",
+      "role": "Full Stack Developer",
+      "duration": "April 2026 - Present",
+      "location": "India",
+      "description": "Developing web and mobile applications using React, React Native, TypeScript, Supabase and Node.js."
+    }
+  ],
+
+  "research_and_achievements": [
+    {
+      "title": "Agentic AI for Autonomous Vehicles: A Modern Survey",
+      "type": "Research / Review Paper",
+      "status": "Research work"
+    },
+    {
+      "title": "Research on Agentic AI and Autonomous Systems",
+      "type": "Research Interest",
+      "status": "Ongoing"
+    },
+    {
+      "title": "Consumer Sentiment Analysis",
+      "type": "Academic Project",
+      "description": "NLP pipeline for sentiment analysis of approximately 5,000 consumer reviews."
+    }
+  ],
+
+  "career_preferences": {
+    "preferred_domains": [
+      "Artificial Intelligence",
+      "Machine Learning",
+      "Agentic AI",
+      "Cyber Security",
+      "Software Engineering",
+      "Research"
+    ],
+    "preferred_roles": [
+      "AI/ML Intern",
+      "Software Engineering Intern",
+      "AI Research Intern",
+      "Machine Learning Intern"
+    ],
+    "interested_in": [
+      "Scholarships",
+      "Research Programs",
+      "Internships",
+      "Fellowships",
+      "Graduate Programs"
+    ]
+  }
+}

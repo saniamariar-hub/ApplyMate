@@ -1,0 +1,9 @@
+DEMO / SAMPLE DOCUMENT - STATEMENT OF PURPOSE
+Candidate: Alex Rivera
+Program: Application for Scholarship / Fellowship
+
+I am applying for this opportunity to further my academic and research endeavors in artificial intelligence and accessible software systems. As a first-generation college student at UC Berkeley studying Computer Science and Data Science, I have consistently pursued rigorous technical mastery while dedicating myself to human-centered computing.
+
+During my research at the Berkeley AI Research (BAIR) lab, I worked on evaluating robustness and safety in autonomous decision systems. My long-term aspiration is to develop intelligent agentic systems that bridge socioeconomic gaps and provide equal access to opportunity.
+
+This fellowship will provide the necessary resources to concentrate fully on my capstone research and community mentorship initiatives.

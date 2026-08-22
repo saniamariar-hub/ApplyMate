@@ -1,0 +1,103 @@
+[
+  {
+    "id": "doc_transcript",
+    "filename": "academic_transcript_official.pdf",
+    "title": "Official Academic Transcript",
+    "category": "transcript",
+    "tags": [
+      "transcript",
+      "academic",
+      "grades",
+      "gpa",
+      "marksheet"
+    ],
+    "issue_date": "2026-01-15",
+    "expiry_date": null,
+    "verified": true,
+    "sample": true
+  },
+  {
+    "id": "doc_passport",
+    "filename": "identity_proof_passport.pdf",
+    "title": "Government Passport ID",
+    "category": "identity",
+    "tags": [
+      "passport",
+      "id",
+      "identity",
+      "citizenship",
+      "government_id"
+    ],
+    "issue_date": "2021-06-10",
+    "expiry_date": "2031-06-09",
+    "verified": true,
+    "sample": true
+  },
+  {
+    "id": "doc_income",
+    "filename": "income_certificate_2025.pdf",
+    "title": "Household Income Tax Summary 2025",
+    "category": "income_certificate",
+    "tags": [
+      "income",
+      "tax",
+      "financial_need",
+      "income_certificate",
+      "salary_slip",
+      "affidavit"
+    ],
+    "issue_date": "2025-04-15",
+    "expiry_date": "2026-12-31",
+    "verified": true,
+    "sample": true
+  },
+  {
+    "id": "doc_lor_smith",
+    "filename": "recommendation_letter_prof_smith.pdf",
+    "title": "Letter of Recommendation (Prof. Elena Smith)",
+    "category": "recommendation_letter",
+    "tags": [
+      "recommendation",
+      "reference",
+      "lor",
+      "letter_of_recommendation",
+      "faculty_ref"
+    ],
+    "issue_date": "2026-02-01",
+    "expiry_date": null,
+    "verified": true,
+    "sample": true
+  },
+  {
+    "id": "doc_resume",
+    "filename": "resume_alex_rivera.pdf",
+    "title": "Aarohi Nair Resume / CV",
+    "category": "resume",
+    "tags": [
+      "resume",
+      "cv",
+      "curriculum_vitae"
+    ],
+    "issue_date": "2026-02-10",
+    "expiry_date": null,
+    "verified": true,
+    "sample": true
+  },
+  {
+    "id": "doc_sop",
+    "filename": "statement_of_purpose_draft.txt",
+    "title": "Statement of Purpose / Essay Draft",
+    "category": "statement_of_purpose",
+    "tags": [
+      "statement_of_purpose",
+      "sop",
+      "essay",
+      "personal_statement",
+      "motivation_letter"
+    ],
+    "issue_date": "2026-02-15",
+    "expiry_date": null,
+    "verified": true,
+    "sample": true
+  }
+]
