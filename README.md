@@ -10,8 +10,7 @@
 - **Real Webcmd 0.7.4 Browser Engine**: Drives real web pages with accessibility snapshots (`webcmd browser snapshot`) and Playwright execution in QuickJS (`webcmd browser run`).
 - **Lightweight 4-Agent Architecture**: Clean, deterministic separation of concerns across Orchestrator, Eligibility, Document, and Application agents without bloated frameworks.
 - **Strict Human Approval Checkpoint**: Automatically identifies and safely pre-fills non-sensitive fields, but **strictly halts before submission**. Automated submission is prohibited.
-- **Local Candidate Vault**: Automatically evaluates requirements against `demo_data/profile.json` and cross-matches mandatory application documents in `demo_data/documents/`.
-- **Built-in Mock Portal for 100% Demo Reliability**: Includes a realistic mock scholarship portal at `/demo-portal` for flawless offline/online hackathon demonstrations.
+
 
 ---
 
